@@ -1,8 +1,8 @@
 # THE OXO GAME 
 
-This game i developed in my first year course.
+I developed this game in my first year.
 
-Project is to develop a version of the OXO GAME in which two players are given two different shapes, shape X or shape O and if a player get three same shape in a row, vertically, horizontally or diagonally will win. Game must give the user message after every move and game must be able to give score after game ended. This project will allow players to apply and develop their mathematical thinking during the game which is vital for our life style. The OXO game software will be written on python 3 with the PYQT5 GUI layout.
+The "OXO game," also known as "Tic-Tac-Toe," is a classic two-player game played on a 3x3 grid. The grid is initially empty, and the players take turns marking an empty cell with their respective symbols (usually "X" for one player and "O" for the other). The goal is to create a line of three of your symbols horizontally, vertically, or diagonally. The game ends when one player achieves this goal, or if the entire grid is filled without a winner, resulting in a draw. Tic-Tac-Toe is simple yet strategic, making it a popular and quick game to play. This game is implemented on python 3 with the PYQT5 GUI layout.
 
 ## Build virtual enviroment
 ```
